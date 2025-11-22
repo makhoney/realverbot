@@ -1,0 +1,9 @@
+# не пушим секреты и локальные штуки
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
